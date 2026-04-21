@@ -15,4 +15,4 @@ one of the most used window managers among the linux ricing community. with it's
 
 **neovim** or _nvim_ is a ViM renewed customizable package for the Vi text editor. With it's minimal simplistic keybinding and case of use in it's learning curve neovim is perfect for those who prefer to work on anything with their keyboard only without the touch of the mouse. Using neovim leads for reaching such productivity flow states nobody else but you can imagine. So it works exactly how you intend it to work. https://neovim.io/
 
-****
+**btop++** - a simple system monitoting cli tools allowing customization and different types of use-cases for doing tasks like monitoring benchmarks using the '''time''' unix command with parameters for precise timing. https://github.com/aristocratos/btop
