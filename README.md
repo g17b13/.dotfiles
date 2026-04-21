@@ -6,3 +6,9 @@
 one of the most used window managers among the linux ricing community. with it's big customization features and wayland window system hyprland makes it's place at one of the best rice and thinker-reliable environments. *it's yours to make it yours.* 
 - learn more at https://hypr.land/
 - try to find your style and window manager / desktop environment at https://www.reddit.com/r/unixporn/
+
+**kitty** - the lightweight terminal emulator I use primarily for it's customization options and easy setup and configuration. for more information refer to https://github.com/kovidgoyal/kitty.
+
+**waybar** - waybar is a top-bar like customizable rig slot for storing desplay variables for your system! it's an easy customizable and nice-looking topbar composure used mainly with hyprland. https://waybar.org/
+
+**oh-my-zsh** is a customizable zsh shell extension that allows for different types of plugins, configurations and integrations to work in zsh. https://ohmyz.sh/
